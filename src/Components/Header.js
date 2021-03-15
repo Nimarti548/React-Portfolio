@@ -2,9 +2,9 @@ import React from "react";
 
 const Header = () => {
   return (
-    <div id="header" className="header-styling">
+    <div id="header" className="App-header">
       <div className="main-info">
-        <h1>Full Stack (MERN) Web Developer</h1>
+        <h3>Full Stack Web Developer (MERN)</h3>
       </div>
     </div>
   );
