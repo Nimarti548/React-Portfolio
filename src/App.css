@@ -18,6 +18,15 @@
   color: #61dafb;
 }
 
+.link{
+  color: black;
+}
+
+a:hover{
+  color:rgb(111, 184, 226)
+}
+
+
 .contact {
   background-color: #282c34;
   min-height: 10vh;
@@ -37,6 +46,7 @@
 .footer a {
   text-decoration: none;
   color: rgb(196, 196, 196);
+  margin-right: 16px;
 }
 
 .footer a:hover {
